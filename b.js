@@ -1,0 +1,1 @@
+var b = "I am from b.js"

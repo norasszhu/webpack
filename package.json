@@ -1,0 +1,28 @@
+{
+  "name": "getting_started_with_react",
+  "version": "1.0.0",
+  "description": "Getting started with facebook reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norasszhu/GettingStartedWithReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norasszhu/GettingStartedWithReact/issues"
+  },
+  "homepage": "https://github.com/norasszhu/GettingStartedWithReact#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
