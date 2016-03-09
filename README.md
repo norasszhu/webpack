@@ -1,2 +1,2 @@
-# GettingStartedWithReact
-Getting started with facebook reactjs
+# GettingStartedWithWebpack
+Getting started with webpack
